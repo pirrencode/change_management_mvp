@@ -1,0 +1,13 @@
+Project Name,Project Manager,Department,Budget,Timeline Progress (%),Overall Completion (%),Risk Level,Number of Stakeholders,Stakeholder Sentiment Score,Communication Frequency,Change Readiness Score,Training Completion (%),Adoption Score,Monitoring Score,Involvement Score,Transitional Readiness Score,Transformational Readiness Score,Status
+ERP Modernization,A. Johnson,IT,1250000,72,68,Medium,42,64,70,66,61,63,74,69,65,60,At Risk
+Finance Automation,M. Patel,Finance,840000,81,79,Low,28,77,74,73,71,75,80,76,72,70,On Track
+HR Onboarding Revamp,L. Brown,HR,320000,58,52,Medium,22,61,59,60,56,58,62,60,57,55,At Risk
+Supply Chain Visibility,D. Garcia,Operations,1500000,47,44,High,35,49,45,46,40,43,51,48,44,42,Delayed
+Sales CRM Rollout,S. Kim,Sales,690000,66,63,Medium,31,68,65,64,62,66,69,67,63,61,At Risk
+Marketing Data Hub,R. Chen,Marketing,510000,76,73,Low,19,74,72,70,69,72,78,71,68,67,On Track
+Cybersecurity Uplift,K. Smith,IT,980000,54,49,High,27,52,50,48,46,47,55,53,49,45,Delayed
+Procurement Digitization,M. Patel,Operations,430000,62,58,Medium,24,63,60,62,57,59,64,61,58,56,At Risk
+Learning Platform Upgrade,L. Brown,HR,390000,69,65,Low,18,71,68,69,66,70,72,68,64,63,On Track
+Customer Portal 2.0,A. Johnson,Sales,1120000,44,39,High,38,47,43,45,38,41,50,46,42,40,Delayed
+Budget Planning AI,R. Chen,Finance,760000,73,70,Medium,26,66,67,68,64,67,71,69,65,64,At Risk
+Warehouse Mobility,D. Garcia,Operations,570000,85,83,Low,21,79,76,74,73,77,82,78,74,72,On Track
