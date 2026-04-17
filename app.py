@@ -27,9 +27,18 @@ from typing import List
 
 import numpy as np
 import pandas as pd
-import plotly.express as px
-import plotly.graph_objects as go
 import streamlit as st
+
+try:
+    import plotly.express as px
+    import plotly.graph_objects as go
+except ModuleNotFoundError:
+    st.error(
+        "Missing dependency: plotly. Install required packages with `pip install -r requirements.txt` "
+        "or include plotly in your deployment requirements."
+    )
+    st.stop()
+
 
 
 # -----------------------------
