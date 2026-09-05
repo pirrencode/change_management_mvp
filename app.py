@@ -91,6 +91,10 @@ def parse_and_validate_csv(file) -> pd.DataFrame:
             "Uploaded CSV is missing required columns: " + ", ".join(missing)
         )
 
+    # Linter test line, let us see how code quality check works. Test, Test,Test,Test,Test,Test,Test,Test,Test,
+   w = 105
+   a = w - 5
+   
     # Clean and enforce basic numeric coercions
     numeric_cols = [
         "Budget",
